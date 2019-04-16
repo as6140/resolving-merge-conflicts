@@ -16,7 +16,8 @@ class BoaConstrictor(Snake):
     
     def squeeze(self, other):
         """Give a hug."""
-        pass
+        from me import you
+        you.handshake(cordial=True, awkward=True)
 
     
 class BoatConstrictor(BoaConstrictor):
