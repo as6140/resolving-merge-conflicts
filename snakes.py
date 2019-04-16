@@ -7,7 +7,7 @@ class Cobra(Snake):
     """Definitely dangerous, yup."""
     
     def bite(self, other):
-        """Deliver a dose of venom."""
+        """Deliver a dose of SNAKEBITE!!!!!!!! OUCH!"""
         pass
 
     
